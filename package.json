@@ -1,6 +1,6 @@
 {
   "name": "web-scaffold",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple scaffolding for my web pages",
   "bin": {
     "new-website": "./tools/new-website.sh"
