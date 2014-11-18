@@ -1,0 +1,14 @@
+{
+  "name": "web-scaffold",
+  "version": "0.0.2",
+  "description": "Simple scaffolding for my web pages",
+  "bin": {
+    "new-website": "./tools/new-website.sh"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vittorio Zaccaria",
+  "license": "BSD",
+  "dependencies": {}
+}
